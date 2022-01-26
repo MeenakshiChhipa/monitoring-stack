@@ -14,3 +14,16 @@
       
       https://github.com/zabbix/zabbix-docker/blob/5.4/kubernetes.yaml
       
+# How to configure ips with domains
+
+1. I have updated my system's hosts file.
+
+        C:\Windows\System32\drivers\etc\hosts
+        
+2. I have meantationed load-balancer external ips with domains in hosts file.
+
+        137.184.245.117 prometheus.cloudopss.com grafana.cloudopss.com alertmanager.cloudopss.com
+        
+3. Now all domains are working.
+ 
+      
