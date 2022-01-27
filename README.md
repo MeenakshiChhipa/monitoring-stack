@@ -22,7 +22,7 @@
         
 2. I have meantationed load-balancer external ips with domains in hosts file.
 
-        137.XXX.XXX.XXX prometheus.cloudopss.com grafana.cloudopss.com alertmanager.cloudopss.com
+        137.XXX.XXX.XXX domain1 domain2 domain3
         
 3. Now all domains are working.
  
